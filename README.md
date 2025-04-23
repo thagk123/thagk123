@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanos Gkoutis</h1>
-<h3 align="center">A passionate machine learning and software developer!</h3>
+<h3 align="center">A passionate machine learning engineer and AI enthusiast!</h3>
 
 ---
 
