@@ -17,8 +17,23 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thagk123&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thagk123&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thagk123&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🔥 GitHub Streaks:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thagk123&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📈 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thagk123&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
