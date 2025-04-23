@@ -24,4 +24,4 @@
 ---
 
 ### 🔗 Let's Connect!
-- GitHub: [@thagk123](https://github.com/thagk123)
+- LinkedIn: (https://www.linkedin.com/in/thanos-gkoutis-246395223/)
