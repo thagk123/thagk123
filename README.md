@@ -24,4 +24,4 @@
 ---
 
 ### 🔗 Let's Connect!
-- LinkedIn: (https://www.linkedin.com/in/thanos-gkoutis-246395223/)
+- [@LinkedIn](https://www.linkedin.com/in/thanos-gkoutis-246395223/)
